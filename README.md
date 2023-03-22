@@ -6,7 +6,7 @@
 ### <div align="center">I'm Theo, a full-time full-stack developer 👨‍💻 learning since 2022 🚀</div>  
   
 
-- 🌱 I’m currently working on my React and Symfony skills  
+- 🌱 I’m currently working on my React and Node JS skills 
   
 
 - 🦾 At the moment I'm going all in on algorithms courses  
